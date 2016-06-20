@@ -1,5 +1,5 @@
 {
-    "name": "skysurfer0110/api-key-bundle",
+    "name": "uecode/api-key-bundle",
     "description": "Creates an avenue for using ApiKey authentication for Symfony2. Requires FOSUserBundle.",
     "license": "Apache 2.0",
     "require": {
