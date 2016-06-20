@@ -9,13 +9,13 @@
     },
     "autoload": {
         "psr-0": {
-            "Uecode\\Bundle\\ApiKeyBundle": "src/"
+            "Digitalweb\\ApiKeyBundle": "src/"
         }
     },
     "authors": [
         {
-            "name": "Aaron Scherer",
-            "email": "aequasi@gmail.com"
+            "name": "Gianmichele Bartolini",
+            "email": "gm@gianmichele.it"
         }
     ]
 }
